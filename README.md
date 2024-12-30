@@ -1,0 +1,6 @@
+# 外汇FX6新系统|海外版外汇FX6|源码程序FX6搭建
+
+项目与2024年二次开发产品，前端php，后端php，集合市场购物平台，帮助商家线上推广.<br>黄金外汇fx6演示请联系右边客服：<br>黄金外汇FX6详细简介：<br>1、FX6外汇平台：到价预警功能<br>如果投资者在外汇中使用FX6平台，他们可以享受该平台的到价预警功能，这样的功能可以让投资者更有优势及灵活性。<br>2、FX6<br>外汇平台：图表绘制和分析功能<br>FX6平台本身也是强大、实用的软件。它不仅支持多种金融产品，更拥有强大的图表绘制和分析功能，如18种画线工具、9个时段图表选项、30种国际领先技术指标等，为外汇投资者及时获取市场资讯，对于正确判断市场趋势提供了很大的帮助。<br>3、FX6外汇平台：止盈止损功能<br>FX6平台可以把新单和现价同时设置止损价位及获利价位，使投资者可以在行情判断错误的情况下，将亏损控制在最小范围内，从而较大程度地保护投资者的利益。<br>4、FX6外汇平台：挂单功能<br>在FX6软件上，投资者可以在理想的价格处设置挂单，当市场价到达所设定的价格时，系统就会自动建仓，及时抓住做单机会，为很多没有时间做单的投资者提供了方便的盈利机会。在FX6外汇平台上，挂单有4种方法，如下所示：<br>buy limit = 买入限价——在现价的下方买入；<br>sell limit = 卖出限阶——在现价的上方卖出；<br>buy stop = 买入止损——在现价的上方买入；<br>sell stop = 卖出止损——在现价的下方卖出<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/cU0Ks" style="color: red;">https://mega-file.org/cU0Ks</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
